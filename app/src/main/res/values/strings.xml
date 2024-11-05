@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Pharma Ease 1.0</string>
+    <string name="_992367367">992367367</string>
+    <string name="enter_your_mobile_number_and_we_will_send_you_a_verification_code">Enter your mobile number and we will send you a Verification code.</string>
+    <string name="lets_create_a_new_account">Lets create a new Account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="_91">+91</string>
+    <string name="proceed">Proceed</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="log_in">Log In</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="don_t_have_an_existing_account">Don\'t have an existing Account?</string>
+    <string name="verify">Verify</string>
+    <string name="by_signing_in_you_agree_to_our_terms_and_conditions_and_privacy_policy">By signing in you agree to our Terms and Conditions and Privacy Policy</string>
+    <string name="didn_t_recieved_an_otp">Didn\'t recieved an OTP?</string>
+    <string name="resent_otp">Resent OTP</string>
+    <string name="_9547862451">9547862451</string>
+    <string name="_9965248762">9965248762</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="enter_your_registered_mobile_number">Enter your registered mobile number</string>
+    <string name="don_t_have_an_existing_account_">Don\'t have an existing Account?</string>
+    <string name="skip">Skip</string>
+    <string name="skip_for_now">Skip for now</string>
+    <string name="enter_you_details">Enter you Details</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="enter_your_details">Enter your details</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="address">Address</string>
+    <string name="submit">Submit</string>
+    <string name="maps_api_key">AIzaSyCS8DicX0ZQU40K6CkVjF9PmItJICT2Wtk</string>
+</resources>
